@@ -7,5 +7,3 @@ jobs:
       - run: echo "Triggering Wokflow 2"
       - name: Checkout
         uses: actions/checkout@v2
-      - name: this is build
-      - run: echo "this is build"
